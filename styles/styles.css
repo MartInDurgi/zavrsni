@@ -1,0 +1,54 @@
+* {
+    font-size: 14px !important;
+
+}
+
+body {
+    font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 14px;
+    color: #b34848;
+}
+
+main {
+    font-size: 14px;
+}
+
+.blog-post-title {
+    font-size: 14px;
+}
+
+.nav-link {
+    background-color: #b34848;
+    color: #cdddeb;
+}
+
+.blog-masthead {
+    background-color: #b34848;
+}
+
+h2 a {
+    color: #b34848;
+}
+
+div h1 {
+    font-size: 14px;
+}
+
+h1:hover,
+h2:hover,
+h3:hover,
+h4:hover,
+h5:hover,
+h6:hover,
+h2 a:hover {
+    text-decoration: underline;
+    color: #b34848 !important;
+}

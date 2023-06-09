@@ -1,8 +1,10 @@
 <header>
+    <link href="styles/styles.css" rel="stylesheet">
+
     <div class="blog-masthead">
         <div class="container">
             <nav class="nav">
-                <a class="nav-link active" href="#">Home</a>
+                <a class="nav-link active" href="posts.php">Home</a>
                 <a class="nav-link" href="#">Log in</a>
                 <a class="nav-link" href="#">Register</a>
                 <a class="nav-link" href="#">New hires</a>
